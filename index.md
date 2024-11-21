@@ -21,8 +21,8 @@ Hello! My name is Vansh Bansal.I am a passionate in Computer Science Engineering
 
 | Degree             | Institution Name  | Year of Graduation | Major/Field of Study  |
 |--------------------|-------------------|--------------------|-----------------------|
-| [B.Tech]           | [MNIT]            | [2027]             | [Computer Science]    |
-| [M.Tech]           | [IIT BOMBAY]      | [2029]             | [Computer Science]    |
+|  B.Tech            |  MNIT             |  2027              | Computer Science      |
+|  M.Tech            |  IIT BOMBAY       |  2029              | Computer Science      |
 
 ---
 
