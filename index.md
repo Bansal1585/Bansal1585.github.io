@@ -70,9 +70,9 @@ When I’m not coding, I enjoy:
 
 Feel free to reach out to me through the following channels:
 
-- **Email:** [My E-mail](mailto:2023ucp1585@mnit.ac.in)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **GitHub:** [Your GitHub Profile](https://github.com/yourprofile)
+- **Email:** [E-mail](mailto:2023ucp1585@mnit.ac.in)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/Bansal1585)
+- **GitHub:** [GitHub Profile](https://github.com/Bansal1585)
 
 ---
 
