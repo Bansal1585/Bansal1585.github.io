@@ -13,7 +13,8 @@ Hello! My name is Vansh Bansal.I am a passionate in Computer Science Engineering
 - **Profession:** Software Engineer
 - **Email:** 2023ucp1585@mnit.ac.in
 
-![Profile Picture](images1.jpeg)
+---
+<p align = "center"><img src= "images1.jpeg"></p>
 
 ---
 
